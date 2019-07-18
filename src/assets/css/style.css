@@ -220,11 +220,12 @@ section.pricing {
 	float: right;
 }
 
-.btn-offre {
+.pricing .btn.btn-offre {
 	background-image: linear-gradient(to right, #e55039, #b71540);
    font-size: x-small;
    border: none;
    font-weight: 300;
+   border: 1px solid black;
 }
 
 .offre-card-short{
@@ -232,4 +233,11 @@ section.pricing {
     font-weight: 600;
     color: #000000;
     display: block;
+}
+
+.pricing .btn.btn-offre.btn-choice-normal{
+	    background-color: white;
+    background-image: none;
+    color: black;
+    border: 1px solid black;
 }
