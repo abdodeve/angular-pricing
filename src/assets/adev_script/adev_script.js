@@ -1,0 +1,1 @@
+console.log("adev_script works");

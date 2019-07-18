@@ -1,0 +1,17 @@
+
+
+/* Builder styles */
+/* @import "../node_modules/grapesjs/dist/css/grapes.min.css" ;
+@import "../node_modules/grapesjs-preset-webpage/dist/grapesjs-preset-webpage.min.css" ; */
+@import "assets/css/minimalist-basic.css" ;
+
+/* Dashboard styles */
+@import 'assets/sb-admin/vendor/bootstrap/css/bootstrap.min.css';
+@import "assets/sb-admin/css/sb-admin.css" ;
+
+/* Import Plugin ng-snotify */
+@import "~ng-snotify/styles/material";
+
+
+/* Global styles */
+@import "assets/css/style.css" ;

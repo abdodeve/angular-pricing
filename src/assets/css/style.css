@@ -1,0 +1,140 @@
+.icon_content_1 {
+  vertical-align: middle;margin-right:30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
+.size-64 {
+  font-size: 5em;
+  color: #8080806b;
+}
+
+/* body,
+html {
+  height: 100%;
+  margin: 0;
+} */
+
+html.full_page {
+  height: 100%;
+  margin: 0;
+}
+
+.logo {
+  height: 5em;
+}
+
+li.nav-item > a.nav-link > i {
+  margin-right: 0.3em;
+}
+
+@media (min-width: 768px) {
+  .sidebar .nav-item .nav-link {
+    padding: 0 25px;
+  }
+}
+
+ul.sidebar.navbar-nav li.nav-item {
+  padding-bottom: 1em;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #fff;
+  border-color: transparent;
+  border-bottom: 5px solid #e74c3c;
+}
+
+.top-nav .nav-link {
+  border: 1px solid transparent;
+  font-size: 0.8em;
+  color: #d2cece;
+  font-weight: normal;
+}
+
+Edit in JSFiddle
+Result
+HTML
+CSS
+JavaScript
+Resources
+section.pricing {
+  background: #007bff;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+.pricing .card {
+  border: none;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+  margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+}
+
+.pricing .card-price {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.pricing .card-price .period {
+  font-size: 0.8rem;
+}
+
+.pricing ul li {
+  margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+  opacity: 0.7;
+}
+
+.pricing .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+}
+
+#wrapper {
+    height: -webkit-fill-available;
+    height: -moz-available;
+    height: fill-available;
+}
+
+.pricing .btn {
+  border-radius: 0.2rem;
+}
+
+
+.features.fa-ul[_ngcontent-c1] {
+  margin: 0;
+}
