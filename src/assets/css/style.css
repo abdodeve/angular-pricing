@@ -138,3 +138,98 @@ section.pricing {
 .features.fa-ul[_ngcontent-c1] {
   margin: 0;
 }
+
+.sidebar.navbar-nav {
+	 position: relative;
+}
+
+.img-logo {
+	height: auto; 
+	width: 100px; 
+	padding: 2em 0;
+}
+
+.img-user-avatar {
+	border-radius: 50%;
+	height: auto;
+	width: 100px;
+}
+
+.user-info {
+	color: #ffff; 
+	padding-bottom: 2em;
+}
+
+.user-name {
+	margin-bottom: 0; 
+	margin-top: 21px; 
+	line-height: 0;
+}
+
+.user-identity{
+	line-height: 2; 
+	font-size: small;
+}
+
+.sign-out {
+	position: absolute;
+  	bottom: 0;
+}
+
+.main-container {
+	padding: 30px 50px;
+}
+
+.top-block h1 {
+	color: #7f8c8d; display: inline; font-size: x-large;
+}
+
+.btn-support {
+	background-color: #fff;
+    color: #7f8c8d;
+    float: right;
+}
+
+.top-nav {
+	width: 100%;
+}
+
+.pricing {
+	padding: 2rem 11rem;
+}
+
+.img-pricing {
+	max-width: 105px;
+	margin-bottom: 10px;
+}
+
+.price-details {
+	font-size: x-small;
+	text-align: center;
+	display: block;
+	color: #9a9898;
+}
+
+.offre-spec {
+	display: inline;
+	font-size: smaller;
+}
+
+.offre-details {
+	display: inline; 
+	float: right;
+}
+
+.btn-offre {
+	background-image: linear-gradient(to right, #e55039, #b71540);
+   font-size: x-small;
+   border: none;
+   font-weight: 300;
+}
+
+.offre-card-short{
+	font-size: small;
+    font-weight: 600;
+    color: #000000;
+    display: block;
+}
