@@ -1,24 +1,20 @@
-# Creasouk Builder
+# Angular pricing app
 
-Creasouk Builder is a Sites/Docs builder 
-
-This is powerful product you can do lot of stuff with it.
-This product allow user to create advanced sites or docs (bills, receipts ..) and much more without any coding knowledge, just by drag & drop .
+App skelton with angular 7
 
 ## Getting Started
 
 Until now this product is open source you can do whatever.
 Clone it and feel free.
-https://gitlab.com/abdelhadi.deve/creasouk-builder.git
+https://gitlab.com/abdelhadi.deve/angular-pricing.git
 
-* **Demo:** http://builder.creasouk.com
+* **Demo:** http://angular-pricing.abdelhadidev.tk
 
 
 ## Built With
 
 * [NodeJS]
 * [Angular 7]
-* [FireBase]
 
 ## Contributing
 
